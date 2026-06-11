@@ -1,15 +1,10 @@
-🌷 Hi, I'm BB (บีบี้) 🌷
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Hi, I'm BB!
 
-🎓 Software Engineering Student | Year 1
+🌷 A quiet girl studying Software Engineering
+💻 Learning how to turn ideas into code
+📚 Trying my best every day
+😳 Not great at socializing
+😴 Probably sleeping right now
+🐱 Powered by cat energy
 
-🐰 เป็นคนเงียบ ๆ พูดไม่ค่อยเก่ง
-🌸 เข้าสังคมไม่ค่อยเป็น แต่เป็นมิตรนะ
-💻 กำลังเรียนรู้การเขียนโปรแกรมทีละนิด
-☕ โค้ดบ้าง ง่วงบ้าง สลับกันไป
-😴 ชอบนอนเป็นพิเศษ
-🐱 ชอบความเรียบง่ายและสิ่งน่ารัก ๆ
-
-✨ Quiet girl, big dreams, and a lot of code to learn. ✨
-
-Welcome to my GitHub! 💖
-
+✨ Soft heart, curious mind, future software engineer. ✨
