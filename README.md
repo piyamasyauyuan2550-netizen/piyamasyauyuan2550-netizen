@@ -1,16 +1,15 @@
-## Hi  👋
+🌷 Hi, I'm BB (บีบี้) 🌷
 
-<!--
-**piyamasyauyuan2550-netizen/piyamasyauyuan2550-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | Year 1
 
-Here are some ideas to get you started:
+🐰 เป็นคนเงียบ ๆ พูดไม่ค่อยเก่ง
+🌸 เข้าสังคมไม่ค่อยเป็น แต่เป็นมิตรนะ
+💻 กำลังเรียนรู้การเขียนโปรแกรมทีละนิด
+☕ โค้ดบ้าง ง่วงบ้าง สลับกันไป
+😴 ชอบนอนเป็นพิเศษ
+🐱 ชอบความเรียบง่ายและสิ่งน่ารัก ๆ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Quiet girl, big dreams, and a lot of code to learn. ✨
+
+Welcome to my GitHub! 💖
+
